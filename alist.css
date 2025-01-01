@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('http://api.hancat.work/cloud/api.php');//将此处替换为你自己的背景图api地址
+	background-image:url('https://cn.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp');
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
@@ -118,7 +118,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/img/img_hennyano_body.png) left bottom/contain no-repeat
+    background: url(https://cdn.jsdelivr.net/gh/in64/Better_Alist@main/img/img_hennyano_body.png) left bottom/contain no-repeat
 }
 .sw-Hennnyano .eyes {
     width: 100%;
@@ -126,7 +126,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/img/img_hennyano_eyes.png) left bottom/contain no-repeat
+    background: url(https://cdn.jsdelivr.net/gh/in64/Better_Alist@main/img/img_hennyano_eyes.png) left bottom/contain no-repeat
 }
 
 @media(any-hover: hover) {
