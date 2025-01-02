@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('https://cn.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp');
+	background-image:url('https://bing-wallpaper-api.deno.dev');
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
